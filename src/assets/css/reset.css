@@ -1,0 +1,17 @@
+body,html,ul,ol,h1,h2{
+    margin: 0;
+}
+
+ul,ol{
+    padding: 0;
+    list-style:none;
+}
+
+img{
+    border:none;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
